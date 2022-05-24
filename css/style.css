@@ -1,4 +1,8 @@
 /* ---------------- TAG  ---------------- */
+body{
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
 div{
    
     margin: 0;
@@ -6,9 +10,13 @@ div{
 }
 h1{
     margin: 0;
+    font-family: 'Sacramento', cursive;
 }
-body{
-    margin: 0;
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
 }
 
 /* ---------------- CLASS   ---------------- */
